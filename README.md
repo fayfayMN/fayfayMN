@@ -30,11 +30,26 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 * **[PC-Audit-MN](https://github.com/fayfayMN/PC-Audit-MN)**: Using NLP to audit litigation patterns and advocate for family court reform.
 * **[Empathy-Sentinel-POC]**: "Humanity First" system filters to update outdated legacy logic.
 
-## 📚 Learning Corner (Curated Growth)
- "Just-in-Time" learning tracks to master industry-standard tools:
-* **Agentic AI & LLMs:** `ai-agents-for-beginners`, `GenAI_Agents`, `Hands-On-LLMs`.
-* **Data Infrastructure:** Meta Database Engineer, Google Advanced Analytics, IBM Data Analyst.
-* **Deep Learning:** `nn-zero-to-hero`, `Machine-Learning-Collection`.
+## 📚 Learning Corner: Continuous Upskilling
+I maintain a structured "Just-in-Time" learning library to bridge the gap between academic theory and industry-grade execution.
+
+### 🤖 Agentic AI & LLM Orchestration
+*Focus: Mastering autonomous systems and prompt engineering.*
+* [ai-agents-for-beginners](https://github.com/fayfayMN/ai-agents-for-beginners) - Microsoft's 12-lesson curriculum on agent architecture.
+* [GenAI_Agents](https://github.com/fayfayMN/GenAI_Agents) - Advanced implementations for intelligent, interactive AI.
+* [Hands-On-LLMs](https://github.com/fayfayMN/Hands-On-Large-Language-Models) - Practical application of Large Language Models.
+
+### 📊 Data Engineering & Analytics Infrastructure
+*Focus: Scaling pipelines and professional visualization.*
+* [IBM-Data-Analyst-Capstone](https://github.com/fayfayMN/Developer_skills_Trends_analysis) - Analyzing tech trends using Python and SQL.
+* [Meta-Database-Engineer](https://github.com/fayfayMN/db-capstone-project) - End-to-end database design and optimization.
+* [Google-Advanced-Analytics](https://github.com/fayfayMN/Salifort-Motors-Predicting-Employee-Retention-) - HR turnover prediction using advanced predictive modeling.
+
+### 🧠 Deep Learning & Math Foundations
+*Focus: Understanding the "why" behind the models.*
+* [nn-zero-to-hero](https://github.com/fayfayMN/nn-zero-to-hero) - Andrej Karpathy's neural network fundamentals.
+* [annotated_DL_papers](https://github.com/fayfayMN/annotated_deep_learning_paper_implementations) - 60+ implementations of deep learning papers.
+* [GPU-Puzzles](https://github.com/fayfayMN/GPU-Puzzles) - Learning CUDA and low-level optimization.
 
 ---
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/feifeili-ds) | [GitHub](https://github.com/fayfayMN)
