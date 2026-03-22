@@ -1,5 +1,5 @@
 # Feifei Li 🚀
-### Data Science @ Metropolitan State University | GPA: 3.9 | 1st Place MN AGENT.AI Winner
+### Data Science @ Metropolitan State University | GPA: 3.9 | 1st Place MN AGENT.AI Winner | Building Multi-Agent Systems & CV Pipelines to bridge systemic gaps.
 
 I am a Data Science student driven by a single mission: **Finding the "blind spots" in our systems and building the technical bridges to fix them.** Whether it’s healthcare access, financial equity, or career transitions, I use data to ensure underserved groups aren't left behind.
 
@@ -16,7 +16,7 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 * **[Developer-Skills-Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis)**: IBM Capstone. Engineered a pipeline for 70k+ records to bridge the gap between education and market demand.
 
 ## 🏗️ In-Progress (Current Builds)
-* **Job Application Agent:** An agentic Python system helping students navigate automated filters with an authentic human voice.
+* **[Career Orchestrator: Multi-Agent Strategy Engine](https://github.com/fayfayMN/Career-Orchestrator-MultiAgent-Platform.git):** A production-grade 7-agent Python system featuring a Phase-Gate "Gatekeeper" Architecture and strict JSON parsing to audit resume-job alignment and automate multimodal interview coaching.
 * **Innovation Studio (Multimodal AI):**
 **3-Month Technical Roadmap: Video-to-Critique AI Pipeline**
 * **Month 1 (Current):** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
