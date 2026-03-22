@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Feifei Li 🚀
 ### Data Science @ Metropolitan State University | GPA: 3.9 | 1st Place MN AGENT.AI Winner
 
