@@ -14,9 +14,10 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 * **[AgentDS-Retail-Banking-Fraud](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking)**: The real-world data and domain knowledge & logic and Python pipeline behind the 1st Place MN AGENT.AI win.
 * **[HeatMap-Burn-Care-Access](https://github.com/fayfayMN/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis)**: Collaborative Hackathon project. I developed interactive mapping and data synthesis to identify gaps in healthcare services.
 * **[Developer-Skills-Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis)**: IBM Capstone. Engineered a pipeline for 70k+ records to bridge the gap between education and market demand.
-
-## 🏗️ In-Progress (Current Builds)
 * **[Career Orchestrator: Multi-Agent Strategy Engine](https://github.com/fayfayMN/Career-Orchestrator-MultiAgent-Platform.git):** A production-grade 7-agent Python system featuring a Phase-Gate "Gatekeeper" Architecture and strict JSON parsing to audit resume-job alignment and automate multimodal interview coaching.
+  
+## 🏗️ In-Progress (Current Builds)
+
 * **Innovation Studio (Multimodal AI):**
 **3-Month Technical Roadmap: Video-to-Critique AI Pipeline**
 * **Month 1 (Current):** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
