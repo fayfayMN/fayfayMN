@@ -7,7 +7,7 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 
 ## 🎖️ Competitive Benchmarks & Honors
 * **1st Place Winner** – Minnesota AGENT.AI Competition (10/2025). Ranked **#1 in the state** for predictive accuracy and technical logic in retail banking fraud detection.
-* **Featured Solution** – HeatMap Hackathon 2026. Developed interactive geospatial maps to model nationwide burn care access disparities with team members.
+* **Top 3 Finalist** –  HeatMap Hackathon 2026. Developed the interactive geospatial visualization layer to map nationwide burn care access disparities across 3,221 counties, contributing to a perfect 5.0 score for Visual Quality and Data Integration.
 * **Dean’s List & Scholarship Recipient** – Recognized for consistent academic excellence.
 
 ## 🏆 Outstanding Projects (The "Bridges")
