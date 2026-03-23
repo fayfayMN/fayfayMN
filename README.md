@@ -21,8 +21,6 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 * **Innovation Studio (Multimodal AI):**
 **3-Month Technical Roadmap: Video-to-Critique AI Pipeline**
 * **Month 1 (Current):** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
-* **Month 2:** Integrating LLaVA multimodal models for automated skeletal form evaluation.
-* **Month 3:** Deploying a Streamlit prototype for real-time AI movement critiques.
 * *Goal: Bridging the gap in access to professional coaching for underserved communities.*
 
 ## 🔮 Future Research & Pipelines
