@@ -1,13 +1,13 @@
 # Feifei Li 🚀
-### Data Science @ Metropolitan State University | GPA: 3.9 | 1st Place MN AGENT.AI Winner | Building Multi-Agent Systems & CV Pipelines to bridge systemic gaps.
+### Data Science @ Metropolitan State University | GPA: 3.9 | Two-Time 1st Place State Winner | Building Multi-Agent Systems & CV Pipelines to Bridge Systemic Gaps
 
 I am a Data Science student driven by a single mission: **Finding the "blind spots" in our systems and building the technical bridges to fix them.** Whether it’s healthcare access, financial equity, or career transitions, I use data to ensure underserved groups aren't left behind.
 
 ---
 
 ## 🎖️ Competitive Benchmarks & Honors
+* **1st Place Winner ** – HeatMap Hackathon (03/2026): Ranked #1 in the state for identifying geographic disparities in U.S. burn care access. Managed the technical GitHub repository and ensured project integrity through data-driven storytelling.
 * **1st Place Winner** – Minnesota AGENT.AI Competition (10/2025). Ranked **#1 in the state** for predictive accuracy and technical logic in retail banking fraud detection.
-* **Top 3 Finalist** –  HeatMap Hackathon 2026. Developed the interactive geospatial visualization layer to map nationwide burn care access disparities across 3,221 counties, contributing to a perfect 5.0 score for Visual Quality and Data Integration.
 * **Dean’s List & Scholarship Recipient** – Recognized for consistent academic excellence.
 
 ## 🏆 Outstanding Projects (The "Bridges")
