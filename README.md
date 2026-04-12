@@ -12,14 +12,13 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 
 ## 🏆 Outstanding Projects
 * **[AgentDS-Retail-Banking-Fraud](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking)**: The real-world data and domain knowledge & logic and Python pipeline behind the 1st Place MN AGENT.AI win.
-* **[HeatMap-Burn-Care-Access](https://github.com/fayfayMN/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis)**: Collaborative Hackathon project. I developed interactive mapping and data synthesis to identify gaps in healthcare services.
+* **[HeatMap-Burn-Care-Access](https://github.com/fayfayMN/Burn-Care-Equity-Analysis-ROI/tree/main))**: Collaborative Hackathon project. I developed interactive mapping and data synthesis to identify gaps in healthcare services.
 * **[Developer-Skills-Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis)**: IBM Capstone. Engineered a pipeline for 70k+ records to bridge the gap between education and market demand.
 * **[Career Orchestrator: Multi-Agent Strategy Engine](https://github.com/fayfayMN/Career-Orchestrator-MultiAgent-Platform.git):** A personal AI assistant that handles the heavy lifting of job hunting—automatically auditing job requirements to save you energy, tailoring your professional persona, and acting as a live coach to bridge the gap between your skills and your next big role.
 
 ## 🏆 Featured Projects (The "Bridges")
 
 ### 🧬 Burn-Care-Equity-ROI-Analysis (The "Engine" behind the 1st Place Win)
-**Official Team Repository:** [efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis)
 
 While the broader team focused on the Composite Vulnerability Index (CVI) presentation, **this work provides the underlying financial and geospatial ROI engine** that quantified the $1B+ healthcare burden.
 
@@ -35,9 +34,9 @@ While the broader team focused on the Composite Vulnerability Index (CVI) presen
 * **Month 1 (Current):** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
 * *Goal: Bridging the gap in access to professional coaching for underserved communities.*
 
-## 🔮 Future Research & Pipelines
+## 🔮 Future Research & Project
 * **[PC-Audit-MN](https://github.com/fayfayMN/PC-Audit-MN)**: Using NLP to audit litigation patterns and advocate for family court reform.
-* **[Empathy-Sentinel-POC]**: "Humanity First" system filters to update outdated legacy logic.
+* **[Resource-Hub]**: "Humanity First" system to help newcomer.
 
 ## 📚 Learning Corner: Continuous Upskilling
 I maintain a structured "Just-in-Time" learning library to bridge the gap between academic theory and industry-grade execution.
