@@ -20,13 +20,13 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 
 ### 🧬 Burn-Care-Equity-ROI-Analysis (The "Engine" behind the 1st Place Win)
 
-While the broader team focused on the Composite Vulnerability Index (CVI) presentation, **this work provides the underlying financial and geospatial ROI engine** that quantified the $1B+ healthcare burden.
+While the broader team focused on the Composite Vulnerability Index (CVI) presentation, this work provides the underlying financial and geospatial engine — quantifying state-level avoidable hospitalization costs from burn under-referral, scoring 498+ trauma centers as telemedicine hub candidates, and mapping population-weighted distance burdens using Census and NIRD 2023 data.
 
-* **Economic Insight:** Modeled a **$1.12 Billion annual burden** in avoidable infection costs for California using state-level trauma data (based on Huang et al. 2021).
-* **Innovation:** Engineered the "Tele-Burn Hub" mapping system for 498 trauma centers to bridge the "100-mile distance burden" for rural patients.
-* **Impact:** Identified a **$305M recovery potential** in California through the activation of 49 specific trauma sites as telemedicine spokes.
-* **Tech:** Python, Folium Geospatial Mapping, ROI Modeling, NIRD 2023 Database.
-  
+* **Economic Insight:** Modeled avoidable hospitalization costs from burn under-referral at the state level using Murray et al. (2019) excess LOS data ($3,500/day) and Huang et al. (2021) 66% under-referral rate, producing state-by-state cost burden estimates from the NIRD 2023 database.
+* **Innovation:**  Engineered a "Tele-Burn Hub" opportunity scoring system ranking non-burn trauma centers by referral gap potential, factoring in trauma level, bed capacity, and burn care absence — mapped geographically using Folium.
+* **Impact:** Identified high-priority telemedicine spoke candidates (opportunity score ≥ 5) across states with the greatest access-to-quality gaps, with projected reductions in excess hospitalization days and avoidable costs.
+* **Tech:** Python, Folium Geospatial Mapping, ROI Modeling
+
 ## 🏗️ In-Progress (Current Builds)
 
 * **Innovation Studio (Multimodal AI):**
