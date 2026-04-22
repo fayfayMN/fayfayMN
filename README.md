@@ -28,11 +28,11 @@ While the broader team focused on the Composite Vulnerability Index (CVI) presen
 * **Tech:** Python, Folium Geospatial Mapping, ROI Modeling
 
 ## 🏗️ In-Progress (Current Builds)
-
-* **Innovation Studio (Multimodal AI):**
+* ** [ai-form-analysis] (https://github.com/fayfayMN/ai-form-analysis): **
 **3-Month Technical Roadmap: Video-to-Critique AI Pipeline**
-* **Month 1 (Current):** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
-* *Goal: Bridging the gap in access to professional coaching for underserved communities.*
+* **Month 1 :** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
+* **Month 2(current):** 
+
 
 ## 🔮 Future Research & Project
 * **[PC-Audit-MN](https://github.com/fayfayMN/PC-Audit-MN)**: Using NLP to audit litigation patterns and advocate for family court reform.
