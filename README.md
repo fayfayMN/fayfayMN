@@ -28,10 +28,11 @@ While the broader team focused on the Composite Vulnerability Index (CVI) presen
 * **Tech:** Python, Folium Geospatial Mapping, ROI Modeling
 
 ## 🏗️ In-Progress (Current Builds)
-* ** [ai-form-analysis] (https://github.com/fayfayMN/ai-form-analysis): **
-**3-Month Technical Roadmap: Video-to-Critique AI Pipeline**
-* **Month 1 :** Building OpenCV pipelines for pose detection and frame sampling from MP4 data.
-* **Month 2(current):** 
+* **[ai-form-analysis](https://github.com/fayfayMN/ai-form-analysis):** 3-Month Technical Roadmap: Video-to-Critique AI Pipeline
+
+- **Month 1 ✅:** Built OpenCV + MediaPipe pipelines for pose detection and frame sampling from MP4 data. Extracted joint angles and stored annotated frames with summary data.
+- **Month 2 ✅:** Developed biomechanical analysis across 5 throw phases — compared joint angles against elite athlete profiles (flagging >15° deviations), estimated hip/wrist rotational velocity, and integrated Gemma vision models to generate structured coaching reports.
+- **Month 3 ✅:** Shipped a Streamlit web app combining the full pipeline into a single interface. Users upload video and receive pose overlays, velocity metrics, and AI coaching feedback — running entirely locally via Ollama (no API costs, no internet required).
 
 
 ## 🔮 Future Research & Project
