@@ -14,7 +14,7 @@ I am a Data Science student driven by a single mission: **Finding the "blind spo
 * **[AgentDS-Retail-Banking-Fraud](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking)**: The real-world data and domain knowledge & logic and Python pipeline behind the 1st Place MN AGENT.AI win.
 * **[HeatMap-Burn-Care-Access](https://github.com/fayfayMN/Burn-Care-Equity-Analysis-ROI/tree/main))**: Collaborative Hackathon project. I developed interactive mapping and data synthesis to identify gaps in healthcare services.
 * **[Developer-Skills-Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis)**: IBM Capstone. Engineered a pipeline for 70k+ records to bridge the gap between education and market demand.
-* **[Career Orchestrator: Multi-Agent Strategy Engine](https://github.com/fayfayMN/Career-Orchestrator-MultiAgent-Platform.git):** A personal AI assistant that handles the heavy lifting of job hunting—automatically auditing job requirements to save you energy, tailoring your professional persona, and acting as a live coach to bridge the gap between your skills and your next big role.
+* **[ai-form-analysis](https://github.com/fayfayMN/ai-form-analysis):** 3-Month Technical Roadmap: Built OpenCV + MediaPipe pipelines for pose detection and frame sampling from MP4 data. Extracted joint angles and stored annotated frames with summary data.Developed biomechanical analysis across 5 throw phases — compared joint angles against elite athlete profiles (flagging >15° deviations), estimated hip/wrist rotational velocity, and integrated Gemma vision models to generate structured coaching reports.,Shipped a Streamlit web app combining the full pipeline into a single interface. Users upload video and receive pose overlays, velocity metrics, and AI coaching feedback — running entirely locally via Ollama (no API costs, no internet required).
 
 ## 🏆 Featured Projects (The "Bridges")
 
@@ -27,17 +27,9 @@ While the broader team focused on the Composite Vulnerability Index (CVI) presen
 * **Impact:** Identified high-priority telemedicine spoke candidates (opportunity score ≥ 5) across states with the greatest access-to-quality gaps, with projected reductions in excess hospitalization days and avoidable costs.
 * **Tech:** Python, Folium Geospatial Mapping, ROI Modeling
 
-## 🏗️ In-Progress (Current Builds)
-* **[ai-form-analysis](https://github.com/fayfayMN/ai-form-analysis):** 3-Month Technical Roadmap: Video-to-Critique AI Pipeline
-
-- **Month 1 ✅:** Built OpenCV + MediaPipe pipelines for pose detection and frame sampling from MP4 data. Extracted joint angles and stored annotated frames with summary data.
-- **Month 2 ✅:** Developed biomechanical analysis across 5 throw phases — compared joint angles against elite athlete profiles (flagging >15° deviations), estimated hip/wrist rotational velocity, and integrated Gemma vision models to generate structured coaching reports.
-- **Month 3 ✅:** Shipped a Streamlit web app combining the full pipeline into a single interface. Users upload video and receive pose overlays, velocity metrics, and AI coaching feedback — running entirely locally via Ollama (no API costs, no internet required).
-
 
 ## 🔮 Future Research & Project
-* **[PC-Audit-MN](https://github.com/fayfayMN/PC-Audit-MN)**: Using NLP to audit litigation patterns and advocate for family court reform.
-* **[Resource-Hub]**: "Humanity First" system to help newcomer.
+* **[Resource-Hub]**: "Humanity First" system .
 
 ## 📚 Learning Corner: Continuous Upskilling
 I maintain a structured "Just-in-Time" learning library to bridge the gap between academic theory and industry-grade execution.
