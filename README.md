@@ -38,7 +38,6 @@ I designed a three-app product loop that covers the full lifecycle of a team:
 | [AgentDS-Retail-Banking](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking) | Domain-driven fraud detection pipeline behind the 1st place AGENT.AI win |
 | [ZeroCode-Career-Coach](https://github.com/fayfayMN/ZeroCode-Career-Coach) | Redesigned a 7-agent pipeline into 3 LLM agents + deterministic orchestrator. ATS scoring, resume tailoring, voice mock interviews. Runs fully local on Ollama |
 | [Developer-Skills-Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis) | IBM Capstone — 70k+ record pipeline analyzing tech trends with Python, SQL, and Power BI |
-| [Pose-Vision-Agent](https://github.com/fayfayMN/pose-vision-agent-studio) | Multimodal AI pipeline using OpenCV + LLaVA for automated skeletal pose-tracking and movement critique |
 
 ## Skills & tools
 
