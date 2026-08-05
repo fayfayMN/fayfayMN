@@ -42,7 +42,7 @@ Self-contained offline study sites I built for my statistics coursework — conc
 
 | Course | What it covers | Live site |
 |--------|---------------|-----------|
-| STAT 353 | SPSS methods — hypothesis testing, ANOVA, regression, chi-square. Interactive concept explorer + method decision tree + SPSS step-by-step guides | [Open site](https://stat353.faithinusa.workers.dev) |
+| STAT 353 | SPSS methods — hypothesis testing, ANOVA, regression, chi-square. Interactive concept explorer + method decision tree + SPSS step-by-step guides | [Open site]([https://stat353.faithinusa.workers.dev)](https://stat353.faithinusa.workers.dev/) |
 | STAT 301 | R-based statistics — linear algebra, calculus review, LDA, gradient boosting, hypothesis testing. Same interactive framework, R instead of SPSS | [Open site](https://stat301.faithinusa.workers.dev) |
 
 ---
