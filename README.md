@@ -63,7 +63,7 @@ Self-contained offline study sites I built for my statistics coursework — conc
 | [AgentDS-Retail-Banking](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking) | Domain-driven fraud detection pipeline behind the 1st place AGENT.AI win |
 | [ZeroCode-Career-Coach](https://github.com/fayfayMN/ZeroCode-Career-Coach) | Redesigned a 7-agent pipeline into 3 LLM agents + deterministic orchestrator. ATS scoring, resume tailoring, voice mock interviews. Runs fully local on Ollama |
 | [JiuZuoShu (久坐舒)](https://github.com/fayfayMN/jiuzuoshu) | TCM self-care app for desk workers — 9-constitution quiz, personalized daily routines, stretch reminders. Zero-cost, no API key |
-| [Developer-Skills-Analysis](https://github.com/fayfayMN/Developer-Skills-Analysis) | IBM Capstone — 70k+ record pipeline analyzing tech trends with Python, SQL, and Power BI |
+| [Developer-Skills-Analysis](https://github.com/fayfayMN/Developer-Skills-Analysis )| IBM Capstone — 70k+ record pipeline analyzing tech trends with Python, SQL, and Power BI |
 
 ---
 
