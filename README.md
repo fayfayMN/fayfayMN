@@ -77,4 +77,4 @@ Self-contained offline study sites I built for my statistics coursework — conc
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/feifeili-ds) | [Portfolio](https://fayfaymn.github.io/feifeili-website/) | feifeiusa30@gmail.com
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/feifeili-ds) | [Portfolio](https://fayfaymn.github.io/Portfolio-/) | feifeiusa30@gmail.com
