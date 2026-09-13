@@ -4,77 +4,90 @@
 
 I find the blind spots in systems and build working tools to fix them — healthcare access gaps, unfair team dynamics, unverified contributions. Not just analysis. Deployed products people can use.
 
+**73 repositories** | **15+ shipped apps** | [Portfolio](https://fayfaymn.github.io/Portfolio-/)
+
 ---
 
-## What I'm building
+## Free Social-Impact Apps
 
-I designed a three-app product loop that covers the full lifecycle of a team:
-
-**FORM** a team → **RUN** it healthily → **PROVE** who contributed
+A three-app product loop covering the full lifecycle of a team: **FORM** a team → **RUN** it healthily → **PROVE** who contributed. No sign-up, no cost, demoed live at AI Magic Night (July 2026).
 
 | App | What it does | Live demo |
 |-----|-------------|-----------|
-| [TeamUp](https://github.com/fayfayMN/teamup-v2) | Skill-based team matching + kickoff | [Open app](https://teamup-v2-xz6ckssvvfjrbvj8vj4lnx.streamlit.app/) |
-| [Team Doctor](https://github.com/fayfayMN/team-doctor) | Charter, RACI health checks, EOS meeting rhythm, anonymous pulse + coach | [Open app](https://team-doctor.streamlit.app/) |
+| [Team Doctor](https://github.com/fayfayMN/team-doctor) | Diagnoses team health in 10 seconds — ownership clarity, red flags, next move | [Open app](https://team-doctor.streamlit.app/) |
+| [TeamUp](https://github.com/fayfayMN/teamup-v2) | Skill-based team matching + guided kickoff with working agreements | [Open app](https://teamup-v2-arbppub2gxhxtwqlmx6p8g.streamlit.app/) |
 | [Clearwork](https://github.com/fayfayMN/clearwork) | Log deliverables, peer confirmation, balance analysis, verified resume cards | [Open app](https://clearwork.streamlit.app/) |
 
-**Why this exists:** I watched teams fall apart — not from conflict, but from invisible problems: unclear ownership, uneven workload, no structure. These apps make that structure explicit and keep it honest.
+Built with pure Python + Streamlit. All health checks are deterministic — no LLM, no API key, nothing that can hallucinate.
 
-**How it's built:** Pure Python + Streamlit. All health checks are deterministic — no LLM, no API key, no cost, nothing that can hallucinate. Append-only decision records. Structurally anonymous pulse surveys. Schema-versioned entities for future migration.
+---
+
+## Data Analysis & Dashboards
+
+| Project | What it does | Links |
+|---------|-------------|-------|
+| [Airbnb EDA Playbook](https://github.com/fayfayMN/airbnb-real-world-eda-playbook) | Real-world EDA playbook for the Twin Cities Airbnb market — interactive charts, geographic analysis, pricing trends | [Dashboard](https://airbnb-real-world-eda-playbook.streamlit.app/) |
+| [Twin Cities Airbnb](https://github.com/fayfayMN/twin-cities-airbnb) | MSP Airbnb exploratory analysis — dual-track Python-vs-R scaffold with neighborhood-level pricing and host insights | [Dashboard](https://twin-cities-airbnbgit.streamlit.app/) |
+| [Developer Skills Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis) | IBM Capstone — 70k+ record pipeline analyzing global tech trends with Python, SQL, and Power BI | GitHub |
+| [Supply Chain AI Agents](https://github.com/fayfayMN/supply-chain-inventory-AI-agents) | AI-powered inventory management with predictive analytics for demand forecasting and stock optimization | GitHub |
+
+---
+
+## AI-Powered Tools
+
+BYOK architecture — deterministic cores with optional AI layers. No API cost by default.
+
+| App | What it does | Links |
+|-----|-------------|-------|
+| [ZeroCode Career Coach](https://github.com/fayfayMN/ZeroCode-Career-Coach) | 3 LLM agents + deterministic orchestrator for ATS scoring, resume tailoring, voice mock interviews. Runs local on Ollama | [Open app](https://zerocode-career-coach-ccc9w2xqr8kgtmphjtl5uz.streamlit.app/) |
+| [JiuZuoShu (久坐舒)](https://github.com/fayfayMN/jiuzuoshu) | TCM self-care app for desk workers — 9-constitution quiz, daily routines, stretch reminders | [Open app](https://fayfaymn-jiuzuoshu-app-iu0wzt.streamlit.app/) |
+| [Communicator's Dojo](https://github.com/fayfayMN/communicators-dojo) | Tri-pane offline communication-skills coach — Speech Coach, Scenario Builder, Thought Organizer | GitHub |
+| MedInterp | EN-ZH medical interpreter training PWA — rules-based stress engine + CMUdict pronunciation verifier | [Open app](https://medinterp.faithinusa.workers.dev/) |
 
 ---
 
 ## Focus & Productivity Tools
 
-Built without AI — pure HTML/CSS/JS solving my own daily computer-time pain points. Browser-based, no sign-up, no backend, installable as PWAs. Deployed on Cloudflare Pages.
+Pure HTML/CSS/JS solving daily computer-time pain points. Browser-based, no sign-up, installable as PWAs. Deployed on Cloudflare Pages.
 
 | App | What it does | Live demo |
 |-----|-------------|-----------|
 | [FocusStone](https://github.com/fayfayMN/focusstone) | Pomodoro timer with 12 guided stretches, voice reminders, break planner, optional ESP32 physical button | [Open app](https://focusstone.pages.dev) |
-| [FlowTime](https://github.com/fayfayMN/flowtime) | Adaptive focus timer — schedules work/rest around cognitive load, not fixed 25-min blocks. Classroom mode for instructors | [Open app](https://flowtime-88d-csn.pages.dev/) |
-| [FlowMove](https://github.com/fayfayMN/flowmove) | Turns every break into a guided stretch/eye-care routine matched to your sore areas + break length. Curated video demos + offline timer | [Open app](https://flowmove.pages.dev) |
+| FlowTime | Adaptive focus timer — schedules work/rest around cognitive load. Classroom + Solo modes | [Open app](https://flowtime-88d-csn.pages.dev/) |
+| FlowMove | Turns every break into a guided stretch/eye-care routine matched to sore areas + break length | [Open app](https://flowmove.pages.dev) |
 
 ---
 
-## Interactive Learning Tools
+## Interactive Learning Sites
 
-Self-contained offline study sites I built for my statistics coursework — concept explorers, decision trees, comparison tables, and interactive graphs. No frameworks, no backend.
+Self-contained offline study sites hosted on Cloudflare. No frameworks, no backend.
 
-| Course | What it covers | Live site |
-|--------|---------------|-----------|
-| STAT 353 | SPSS methods — hypothesis testing, ANOVA, regression, chi-square. Interactive concept explorer + method decision tree + SPSS step-by-step guides | [Open site](https://stat353.faithinusa.workers.dev) |
-| STAT 301 | R-based statistics — linear algebra, calculus review, LDA, gradient boosting, hypothesis testing. Same interactive framework, R instead of SPSS | [Open site](https://stat301.faithinusa.workers.dev) |
-
----
-
-## Competition wins
-
-- **1st Place** — HeatMap Hackathon (03/2026): Ranked #1 in the state for identifying geographic disparities in U.S. burn care access. Built the financial and geospatial engine — modeled state-level avoidable hospitalization costs, scored 498+ trauma centers as telemedicine hub candidates using Census and NIRD 2023 data.
-- **1st Place** — Minnesota AGENT.AI Competition (10/2025): Ranked #1 in the state for predictive accuracy in retail banking fraud detection. Shifted from baseline accuracy to behavioral/temporal features with imbalance-aware learning (Macro-F1: 0.5211 fraud, 0.9553 default).
-- **Dean's List x 6 semesters** & **5 Scholarship Recipient**
+| Site | What it covers | Live site |
+|------|---------------|-----------|
+| STAT 353 | SPSS methods — hypothesis testing, ANOVA, regression, chi-square. Interactive concept explorer + decision tree | [Open site](https://stat353.faithinusa.workers.dev/) |
+| STAT 301 | R-based statistics — linear algebra, calculus, LDA, gradient boosting. Same framework, R instead of SPSS | [Open site](https://stat301.faithinusa.workers.dev/) |
+| Time Series Analysis | STAT 411 companion — 15-week course site with examples, R code, and curated resources per week | [Open site](https://timeseriesanalysis.faithinusa.workers.dev/) |
+| Data Interview Dojo | DataCamp-style interview prep for SQL, Python, Data Engineering, Databricks, Snowflake with in-browser SQL | [Open site](https://datainterview-dojo.faithinusa.workers.dev/) |
+| MinneMUDAC 2025 Playbook | Teaching site for the 2025 MinneMUDAC/BBBS data challenge — EDA/ETL/ML workshops in Python + R | [Open site](https://minnemudac-2025-playbook.faithinusa.workers.dev/) |
 
 ---
 
-## Selected projects
+## Competition Wins
 
-| Project | What I did |
-|---------|-----------|
-| [Burn-Care-Equity-ROI](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis) | Geospatial ROI engine behind the 1st place hackathon win — Folium mapping, Tele-Burn Hub scoring, cost modeling |
-| [AgentDS-Retail-Banking](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking) | Domain-driven fraud detection pipeline behind the 1st place AGENT.AI win |
-| [ZeroCode-Career-Coach](https://github.com/fayfayMN/ZeroCode-Career-Coach) | Redesigned a 7-agent pipeline into 3 LLM agents + deterministic orchestrator. ATS scoring, resume tailoring, voice mock interviews. Runs fully local on Ollama |
-| [JiuZuoShu (久坐舒)](https://github.com/fayfayMN/jiuzuoshu) | TCM self-care app for desk workers — 9-constitution quiz, personalized daily routines, stretch reminders. Zero-cost, no API key |
-| [Developer-Skills-Analysis](https://github.com/fayfayMN/Developer_skills_Trends_analysis)| IBM Capstone — 70k+ record pipeline analyzing tech trends with Python, SQL, and Power BI |
+- **1st Place** — HeatMap Hackathon (03/2026): Ranked #1 in the state for identifying geographic disparities in U.S. burn care access. Built the financial and geospatial engine — modeled state-level avoidable hospitalization costs, scored 498+ trauma centers as telemedicine hub candidates. ([GitHub](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis))
+- **1st Place** — Minnesota AGENT.AI Competition (10/2025): #1 in Retail Banking domain, Top 10 globally. Fraud Detection & Credit Default pipeline with imbalance-aware learning. IEEE ICHI 2026 Workshop invitee. ([GitHub](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking))
+- **Dean's List x 6 semesters** | **5x Scholarship Recipient**
 
 ---
 
-## Skills & tools
+## Skills & Tools
 
 **Languages:** Python, R, SQL, Java, JavaScript, HTML/CSS
-**Data:** Pandas, NumPy, Scikit-learn, TensorFlow, JMP, SPSS
-**Visualization:** Power BI, Tableau, Streamlit, Folium, Matplotlib, Seaborn
-**Cloud & Infra:** Snowflake, Databricks, AWS (EC2, S3), Docker, Git
-**AI/ML:** LLM orchestration (Ollama), multi-agent systems, NLP, computer vision (OpenCV, YOLO, LLaVA), prompt engineering
+**Data:** Pandas, NumPy, Scikit-learn, TensorFlow, Spark, JMP, SPSS
+**Visualization:** Streamlit, Power BI, Tableau, Folium, Matplotlib, Seaborn
+**Cloud & Infra:** Snowflake, Databricks, AWS (EC2, S3), Cloudflare (Workers, Pages), Docker, Git
+**AI/ML:** LLM orchestration (Ollama, LangChain), multi-agent systems, NLP, computer vision (OpenCV, YOLO, LLaVA), prompt engineering
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/feifeili-ds) | [Portfolio](https://fayfaymn.github.io/Portfolio-/) | feifeiusa30@gmail.com
+Let's connect: [LinkedIn](https://www.linkedin.com/in/feifeili-ds) | [Portfolio](https://fayfaymn.github.io/Portfolio-/) | feifeiusa30@gmail.com
