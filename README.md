@@ -66,8 +66,6 @@ Self-contained offline study sites hosted on Cloudflare. No frameworks, no backe
 |------|---------------|-----------|
 | STAT 353 | SPSS methods — hypothesis testing, ANOVA, regression, chi-square. Interactive concept explorer + decision tree | [Open site](https://stat353.faithinusa.workers.dev/) |
 | STAT 301 | R-based statistics — linear algebra, calculus, LDA, gradient boosting. Same framework, R instead of SPSS | [Open site](https://stat301.faithinusa.workers.dev/) |
-| Time Series Analysis | STAT 411 companion — 15-week course site with examples, R code, and curated resources per week | [Open site](https://timeseriesanalysis.faithinusa.workers.dev/) |
-| Data Interview Dojo | DataCamp-style interview prep for SQL, Python, Data Engineering, Databricks, Snowflake with in-browser SQL | [Open site](https://datainterview-dojo.faithinusa.workers.dev/) |
 | MinneMUDAC 2025 Playbook | Teaching site for the 2025 MinneMUDAC/BBBS data challenge — EDA/ETL/ML workshops in Python + R | [Open site](https://minnemudac-2025-playbook.faithinusa.workers.dev/) |
 
 ---
