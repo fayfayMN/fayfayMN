@@ -66,7 +66,6 @@ Self-contained offline study sites hosted on Cloudflare. No frameworks, no backe
 |------|---------------|-----------|
 | STAT 353 | SPSS methods — hypothesis testing, ANOVA, regression, chi-square. Interactive concept explorer + decision tree | [Open site](https://stat353.faithinusa.workers.dev/) |
 | STAT 301 | R-based statistics — linear algebra, calculus, LDA, gradient boosting. Same framework, R instead of SPSS | [Open site](https://stat301.faithinusa.workers.dev/) |
-| MinneMUDAC 2025 Playbook | Teaching site for the 2025 MinneMUDAC/BBBS data challenge — EDA/ETL/ML workshops in Python + R | [Open site](https://minnemudac-2025-playbook.faithinusa.workers.dev/) |
 
 ---
 
