@@ -6,19 +6,6 @@ I find the blind spots in systems and build working tools to fix them — health
 
 **73 repositories** | **15+ shipped apps** | [Portfolio](https://fayfaymn.github.io/Portfolio-/)
 
----
-
-## Free Social-Impact Apps
-
-A three-app product loop covering the full lifecycle of a team: **FORM** a team → **RUN** it healthily → **PROVE** who contributed. No sign-up, no cost, demoed live at AI Magic Night (July 2026).
-
-| App | What it does | Live demo |
-|-----|-------------|-----------|
-| [Team Doctor](https://github.com/fayfayMN/team-doctor) | Diagnoses team health in 10 seconds — ownership clarity, red flags, next move | [Open app](https://team-doctor.streamlit.app/) |
-| [TeamUp](https://github.com/fayfayMN/teamup-v2) | Skill-based team matching + guided kickoff with working agreements | [Open app](https://teamup-v2-arbppub2gxhxtwqlmx6p8g.streamlit.app/) |
-| [Clearwork](https://github.com/fayfayMN/clearwork) | Log deliverables, peer confirmation, balance analysis, verified resume cards | [Open app](https://clearwork.streamlit.app/) |
-
-Built with pure Python + Streamlit. All health checks are deterministic — no LLM, no API key, nothing that can hallucinate.
 
 ---
 
@@ -74,6 +61,19 @@ Self-contained offline study sites hosted on Cloudflare. No frameworks, no backe
 - **1st Place** — HeatMap Hackathon (03/2026): Ranked #1 in the state for identifying geographic disparities in U.S. burn care access. Built the financial and geospatial engine — modeled state-level avoidable hospitalization costs, scored 498+ trauma centers as telemedicine hub candidates. ([GitHub](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis))
 - **1st Place** — Minnesota AGENT.AI Competition (10/2025): #1 in Retail Banking domain, Top 10 globally. Fraud Detection & Credit Default pipeline with imbalance-aware learning. IEEE ICHI 2026 Workshop invitee. ([GitHub](https://github.com/fayfayMN/AgentDS-Competition-Winning-Solution-in-Retail-Banking))
 - **Dean's List x 6 semesters** | **5x Scholarship Recipient**
+
+---
+## Free Social-Impact Apps
+
+A three-app product loop covering the full lifecycle of a team: **FORM** a team → **RUN** it healthily → **PROVE** who contributed. No sign-up, no cost, demoed live at AI Magic Night (July 2026).
+
+| App | What it does | Live demo |
+|-----|-------------|-----------|
+| [Team Doctor](https://github.com/fayfayMN/team-doctor) | Diagnoses team health in 10 seconds — ownership clarity, red flags, next move | [Open app](https://team-doctor.streamlit.app/) |
+| [TeamUp](https://github.com/fayfayMN/teamup-v2) | Skill-based team matching + guided kickoff with working agreements | [Open app](https://teamup-v2-arbppub2gxhxtwqlmx6p8g.streamlit.app/) |
+| [Clearwork](https://github.com/fayfayMN/clearwork) | Log deliverables, peer confirmation, balance analysis, verified resume cards | [Open app](https://clearwork.streamlit.app/) |
+
+Built with pure Python + Streamlit. All health checks are deterministic — no LLM, no API key, nothing that can hallucinate.
 
 ---
 
